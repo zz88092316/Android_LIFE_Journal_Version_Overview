@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+
+    >
+
+    <Button
+        android:id="@+id/action_delete"
+        android:layout_width="80dp"
+        android:layout_height="26dp"
+        android:layout_gravity="end"
+        android:background="#737373"
+        android:text="菜单"
+        android:textColor="#FFFFFF"
+        android:textSize="15dp"
+
+        />
+
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="675dp"
+        android:layout_weight="1"
+        android:fillViewport="true">
+
+        <EditText
+            android:id="@+id/content"
+            android:layout_width="410dp"
+            android:layout_height="match_parent"
+            android:gravity="left"
+
+
+            />
+    </ScrollView>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        >
+
+        <Button
+            android:id="@+id/picture"
+            android:layout_width="141dp"
+            android:layout_height="59dp"
+            android:layout_weight="1"
+            android:background="#2196F3"
+            android:text="@string/picture"
+            android:textColor="#FFFFFF"
+            android:textSize="24dp" />
+
+        <Button
+            android:id="@+id/photo"
+            android:layout_width="146dp"
+            android:layout_height="59dp"
+            android:layout_weight="1"
+            android:background="#3F51B5"
+            android:text="@string/Photograph"
+            android:textColor="#FFFFFF"
+            android:textSize="24dp" />
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>

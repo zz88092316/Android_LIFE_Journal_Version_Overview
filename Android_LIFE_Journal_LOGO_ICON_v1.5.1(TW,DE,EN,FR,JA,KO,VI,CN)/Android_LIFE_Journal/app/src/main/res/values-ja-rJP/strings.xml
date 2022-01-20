@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>   //日本
+    <string name="Android_LIFE_Journal" translatable="false">LIFE ログ</string>
+    <string name="LIFE_JOURNAL">LIFE ログ</string>
+    <string name="Notepad">メモ帳</string>
+    <string name="Add_note">メモを追加</string>
+    <string name="search">探す</string>
+    <string name="picture">フォトグラフ</string>
+    <string name="Photograph">撮影</string>
+    <string name="Input_prompt">入力プロンプト</string>
+    <string name="Graphic">グラフィック</string>
+    <string name="save">保存する</string>
+    <string name="Renamed">名前を変更</string>
+    <string name="delete">消去</string>
+    <string name="share">シェア</string>
+
+
+</resources>

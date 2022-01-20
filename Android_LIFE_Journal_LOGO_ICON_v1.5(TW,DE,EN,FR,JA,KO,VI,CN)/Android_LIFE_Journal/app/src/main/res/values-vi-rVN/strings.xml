@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>  //越南
+    <string name="Android_LIFE_Journal" translatable="false">LIFE Nhật ký</string>
+    <string name="LIFE_JOURNAL">LIFE Nhật ký</string>
+    <string name="Notepad">Sổ tay</string>
+    <string name="Add_note">Thêm ghi chú</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="picture">bức ảnh</string>
+    <string name="Photograph">ảnh chụp</string>
+    <string name="Input_prompt">Nhập lời nhắc</string>
+    <string name="Graphic">Đồ họa</string>
+    <string name="save">cửa hàng</string>
+    <string name="Renamed">Đổi tên</string>
+    <string name="delete">xóa bỏ</string>
+    <string name="share">chia sẻ</string>
+
+
+</resources>

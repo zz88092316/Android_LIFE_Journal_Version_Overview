@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>   //韓國
+    <string name="Android_LIFE_Journal" translatable="false">LIFE 통나무</string>
+    <string name="LIFE_JOURNAL">LIFE 통나무</string>
+    <string name="Notepad">메모장</string>
+    <string name="Add_note">메모를 추가</string>
+    <string name="search">검색</string>
+    <string name="picture">그림</string>
+    <string name="Photograph">사진</string>
+    <string name="Input_prompt">입력 프롬프트</string>
+    <string name="Graphic">그래픽</string>
+    <string name="save">가게</string>
+    <string name="Renamed">이름 바꾸기</string>
+    <string name="delete">삭제</string>
+    <string name="share">공유하다</string>
+
+</resources>

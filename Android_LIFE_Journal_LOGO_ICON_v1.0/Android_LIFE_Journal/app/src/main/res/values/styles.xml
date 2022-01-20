@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="activated" parent="android:Theme.Material.Light.DarkActionBar" tools:targetApi="lollipop">
+        <item name="android:background">?android:attr/activatedBackgroundIndicator</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="AppTheme">
+        <item name="android:windowNoTitle">false</item>        \\是否顯示文字    false or true
+        <item name="android:windowActionBar">true</item>      \\是否顯示標題頁  false or true
+        <item name="android:windowFullscreen">false</item>     \\是否全銀幕顯示  false or true
+    </style>
+
+
+
+</resources>

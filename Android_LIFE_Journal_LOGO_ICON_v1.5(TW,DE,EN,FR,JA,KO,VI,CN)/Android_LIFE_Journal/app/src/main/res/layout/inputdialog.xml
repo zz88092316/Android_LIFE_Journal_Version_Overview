@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+
+    <TextView
+        android:id="@+id/inputDialog_tvMessage"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_margin="4dip"
+        android:text="@string/Input_prompt"
+        android:textSize="30dp"
+
+        />
+
+    <EditText
+        android:id="@+id/inputDialog_edtUserInput"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:ems="10">
+
+        <requestFocus />
+    </EditText>
+
+
+
+</LinearLayout>

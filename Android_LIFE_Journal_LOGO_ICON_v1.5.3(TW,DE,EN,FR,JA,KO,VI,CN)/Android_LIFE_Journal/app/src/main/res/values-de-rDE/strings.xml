@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>   //德國
+    <string name="Android_LIFE_Journal" translatable="false">LIFE Protokoll</string>
+    <string name="LIFE_JOURNAL">LIFE Protokoll</string>
+    <string name="Notepad">Notizblock</string>
+    <string name="Add_note">Notiz hinzufügen</string>
+    <string name="search">Suche</string>
+    <string name="picture">picture</string>
+    <string name="Photograph">Bild</string>
+    <string name="Input_prompt">Eingabeaufforderung</string>
+    <string name="Graphic">Grafik</string>
+    <string name="save">Geschäft</string>
+    <string name="Renamed">Umbenennen</string>
+    <string name="delete">löschen</string>
+    <string name="share">Teilen</string>
+
+
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:background="@drawable/text1"
+    >
+
+
+    <TextView
+        android:id="@+id/Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4169E1"
+        android:gravity="center"
+        android:text="記事簿"
+        android:textColor="#FFFFFF"
+        android:textSize="40dp" />
+
+    <AutoCompleteTextView
+        android:id="@+id/id_autotextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:completionThreshold="1"
+        android:gravity="left"
+        android:hint="輸入筆記名稱 :"
+        android:textSize="30dp"
+        />
+
+    <ListView
+        android:id="@+id/notelist"
+        android:layout_width="match_parent"
+        android:layout_height="524dp"
+        android:layout_weight="1"
+        android:choiceMode="multipleChoiceModal" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        >
+
+        <Button
+            android:id="@+id/addNote"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="bottom"
+            android:background="#2196F3"
+            android:text="新增筆記"
+            android:textColor="#FFFFFF"
+
+
+            android:textSize="30dp" />
+    </LinearLayout>
+
+</LinearLayout>

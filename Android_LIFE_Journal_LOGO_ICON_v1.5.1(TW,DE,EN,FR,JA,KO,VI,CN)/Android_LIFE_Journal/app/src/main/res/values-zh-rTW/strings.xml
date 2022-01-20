@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>  //臺灣
+    <string name="Android_LIFE_Journal" translatable="false">LIFE 日誌</string>
+    <string name="LIFE_JOURNAL">LIFE 日誌</string>
+    <string name="Notepad">記事簿</string>
+    <string name="Add_note">新增筆記</string>
+    <string name="search">搜尋</string>
+    <string name="picture">圖片</string>
+    <string name="Photograph">拍照</string>
+    <string name="Input_prompt">輸入提示</string>
+    <string name="Graphic">圖文</string>
+    <string name="save">儲存</string>
+    <string name="Renamed">重命名</string>
+    <string name="delete">刪除</string>
+    <string name="share">分享</string>
+
+
+</resources>
